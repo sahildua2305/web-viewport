@@ -17,12 +17,9 @@ if(isset($_GET['url'])){
 	<meta property="og:description" content="Now, you don't need to use default break-points in CSS for responsiveness. Let your content/layout decide the break-points. A viewport to check responsiveness of a website and decide the breakpoints while developing a responsive website."/>
 	<meta name="description" content="Now, you don't need to use default break-points in CSS for responsiveness. Let your content/layout decide the break-points. A viewport to check responsiveness of a website and decide the breakpoints while developing a responsive website.">
 	<meta name="keywords" content="viewport, breaking points, responsive, responsiveness, website, sahil, dua, sahildua, sahildua2305, sahil2305dua, sahil dua, collegespace.in, sahildua.collegespace.in, small, large, dance, full, increase, decrease">
-    <link rel="stylesheet" href="style.css"/>
+    	<link rel="stylesheet" href="style.css"/>
 	<script src="jquery.min.js"></script>
 	<script src="script.js"></script>
-	<link rel="shortcut icon" href="favicon.png" type="image/png">
-	<link rel="shortcut icon" type="image/png" href="favicon.png" />
-
 	
 </head>
 	
